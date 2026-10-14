@@ -236,7 +236,7 @@ Bevor wir mit den eigentlichen Zeigern arbeiten, schauen wir uns die Parameter d
    ./build/bin/exercise-000 --verbose debug.txt
    ```
 
-### Beispielausgabe:
+### Beispielausgabe
 
 ```
 Anzahl Argumente (argc): 4
@@ -293,7 +293,7 @@ fmt::println("Wert: {}", *d);    // Zugriff über Dereferenzierung
 delete d;                         // Speicher freigeben
 ```
 
-#### Hauptunterschiede:
+#### Hauptunterschiede
 
 - **`malloc`**: Nur Speicher reservieren, keine Initialisierung, Cast erforderlich
 - **`new`**: Speicher reservieren UND initialisieren in einem Schritt
