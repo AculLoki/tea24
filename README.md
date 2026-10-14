@@ -41,5 +41,5 @@ git push origin main
 
 ## Hilfreiche Links
 
-- [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+- [Markdown Cheat Sheet](https://docs.github.com/en/get-started/writing-on-github)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
