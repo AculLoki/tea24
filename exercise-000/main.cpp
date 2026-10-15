@@ -2,6 +2,7 @@
 #include <fmt/format.h>
 
 #include "config.h"
+#include <string>
 
 int main(int argc, char **argv) {
 
@@ -13,6 +14,13 @@ int main(int argc, char **argv) {
     fmt::print("Hello, {}!\n", tea::PROJECT_NAME);
 
     /* INSERT YOUR CODE HERE */
+
+
+    std::string name = "Luca";
+
+    /********/
+
+    fmt::print("Mein name ist {}\n", name);
 
     return 0; /* exit gracefully*/
 }
